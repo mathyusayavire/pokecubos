@@ -1,0 +1,977 @@
+[06:40:12] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.16.3
+[06:40:13] [main/INFO]: Loading 4 mods:
+	- fabricloader 0.16.3
+	   \-- mixinextras 0.4.1
+	- java 21
+	- minecraft 1.21.1
+[06:40:13] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/pokecubos/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[06:40:18] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[06:40:19] [main/WARN]: Missing data pack mod:arclight
+[06:40:19] [main/WARN]: Missing data pack mod:forge
+[06:40:19] [main/WARN]: Missing data pack mod:voicechat
+[06:40:19] [main/WARN]: Missing data pack mod:doubledoors
+[06:40:19] [main/WARN]: Missing data pack mod:ambientsounds
+[06:40:19] [main/WARN]: Missing data pack mod:jade
+[06:40:19] [main/WARN]: Missing data pack mod:creativecore
+[06:40:19] [main/WARN]: Missing data pack mod:easymagic
+[06:40:19] [main/WARN]: Missing data pack mod:jei
+[06:40:19] [main/WARN]: Missing data pack mod:supermartijn642corelib
+[06:40:19] [main/WARN]: Missing data pack mod:pehkui
+[06:40:19] [main/WARN]: Missing data pack mod:stoneworks
+[06:40:19] [main/WARN]: Missing data pack mod:sophisticatedcore
+[06:40:19] [main/WARN]: Missing data pack mod:sound_physics_remastered
+[06:40:19] [main/WARN]: Missing data pack mod:collective
+[06:40:19] [main/WARN]: Missing data pack mod:journeymap
+[06:40:19] [main/WARN]: Missing data pack mod:securitycraft
+[06:40:19] [main/WARN]: Missing data pack mod:decorative_blocks
+[06:40:19] [main/WARN]: Missing data pack mod:mixinextras
+[06:40:19] [main/WARN]: Missing data pack mod:myserveriscompatible
+[06:40:19] [main/WARN]: Missing data pack mod:tombstone
+[06:40:19] [main/WARN]: Missing data pack mod:sophisticatedbackpacks
+[06:40:19] [main/WARN]: Missing data pack mod:architectury
+[06:40:19] [main/WARN]: Missing data pack mod:connectedglass
+[06:40:19] [main/WARN]: Missing data pack mod:chisel
+[06:40:19] [main/WARN]: Missing data pack mod:refurbished_furniture
+[06:40:19] [main/WARN]: Missing data pack mod:puzzleslib
+[06:40:19] [main/WARN]: Missing data pack mod:fusion
+[06:40:19] [main/WARN]: Missing data pack mod:carryon
+[06:40:19] [main/WARN]: Missing data pack mod:framework
+[06:40:19] [main/WARN]: Missing data pack mod:puzzlesaccessapi
+[06:40:19] [main/WARN]: Missing data pack mod:appleskin
+[06:40:19] [main/WARN]: Missing data pack mod:variantvanillablocks
+[06:40:19] [main/WARN]: Missing data pack mod:athena
+[06:40:20] [main/INFO]: Loaded 1290 recipes
+[06:40:20] [main/INFO]: Loaded 1399 advancements
+[06:40:21] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[06:40:21] [Server thread/INFO]: Loading properties
+[06:40:21] [Server thread/INFO]: Default game type: SURVIVAL
+[06:40:21] [Server thread/INFO]: Generating keypair
+[06:40:21] [Server thread/INFO]: Starting Minecraft server on *:25565
+[06:40:21] [Server thread/INFO]: Using epoll channel type
+[06:40:21] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[06:40:21] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[06:40:21] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[06:40:21] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[06:40:21] [Server thread/INFO]: Preparing level "world"
+[06:40:23] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[06:40:24] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[06:40:24] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[06:40:24] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[06:40:25] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:40:25] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:40:25] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:40:25] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:40:25] [Server thread/INFO]: Time elapsed: 1244 ms
+[06:40:25] [Server thread/INFO]: Done (3.596s)! For help, type "help"
+[06:40:46] [Server thread/INFO]: PeladinPeladon[/172.27.154.83:55350] logged in with entity id 3 at (15.5, 95.0, 82.5)
+[06:40:46] [Server thread/INFO]: PeladinPeladon joined the game
+[06:40:47] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:40:47] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:40:55] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:40:55] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:41:20] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:41:20] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:41:20] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:41:20] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:41:20] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:41:20] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:41:23] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:41:23] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:41:23] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:41:23] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:41:23] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:41:23] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:41:23] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:41:23] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:41:23] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:41:23] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:41:23] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:41:23] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:41:23] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:41:23] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:41:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:41:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:41:29] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:41:29] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:41:29] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:41:29] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:41:29] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:41:29] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:41:29] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:41:29] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:41:30] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:41:30] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:41:30] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:41:30] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:41:30] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:41:30] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:41:30] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:41:30] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:41:32] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:41:32] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:41:32] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:41:32] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:41:32] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:41:32] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:41:32] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:41:32] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:41:32] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:41:32] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:41:35] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:41:35] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:41:35] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:41:35] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:41:35] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:41:35] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:41:35] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:41:35] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:41:35] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:41:35] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:41:35] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:41:35] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:41:35] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:41:35] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:41:35] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:41:35] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:41:35] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:41:35] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:41:35] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:41:35] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:45:20] [Server thread/INFO]: Teleported PeladinPeladon to -760.500000, 125.000000, -11944.500000
+[06:45:21] [Server thread/WARN]: PeladinPeladon moved too quickly! 1.7011100592918638,-10.806526110008988,0.717748455615947
+[06:45:24] [Server thread/INFO]: PeladinPeladon was doomed to fall by Spider
+[06:45:50] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:45:50] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:45:50] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:45:50] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:45:50] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:45:50] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:45:50] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:45:50] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:46:01] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:46:01] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:46:01] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:46:01] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:46:01] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:46:01] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:46:01] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:46:01] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:46:01] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:46:01] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:46:14] [Server thread/INFO]: Expected whitespace to end one argument, but found trailing data
+[06:46:14] [Server thread/INFO]: ...tive Pelad/gamemode creative/gamemode creative PeladinPeladon<--[HERE]
+[06:46:16] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:46:16] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:46:27] [Server thread/INFO]: Made PeladinPeladon a server operator
+[06:46:34] [Server thread/INFO]: [PeladinPeladon: Set own game mode to Creative Mode]
+[06:47:04] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[06:47:04] [Server thread/INFO]: Tp -761 125 -1195<--[HERE]
+[06:47:25] [Server thread/INFO]: Teleported PeladinPeladon to -760.500000, 125.000000, -1194.500000
+[06:47:25] [Server thread/ERROR]: Recoverable errors when loading section [-49, 7, -75]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: stoneworks:stone_tile_slab -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: stoneworks:stone_tile_stairs -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: stoneworks:stone_tile_stairs -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: stoneworks:stone_tile_stairs -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: stoneworks:stone_tile_stairs -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: stoneworks:stone_tile_stairs -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chisel:panel/stone -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: stoneworks:stone_tile_stairs -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chisel:chaotic_bricks/stone -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: stoneworks:stone_tiles -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chisel:large_tile/andesite -> using default)
+[06:47:25] [Server thread/ERROR]: Recoverable errors when loading section [-49, 8, -75]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: decorative_blocks:chain -> using default)
+[06:47:25] [Server thread/ERROR]: Recoverable errors when loading section [-48, 7, -74]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chisel:chaotic_bricks/stone -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: stoneworks:stone_tiles -> using default)
+[06:47:25] [Server thread/ERROR]: Recoverable errors when loading section [-47, 7, -75]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: stoneworks:stone_tile_slab -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: stoneworks:stone_tile_stairs -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: stoneworks:stone_tile_stairs -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chisel:sunken/stone -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chisel:chaotic_bricks/stone -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: stoneworks:stone_tiles -> using default)
+[06:47:25] [Server thread/ERROR]: Recoverable errors when loading section [-48, 7, -76]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:door_mat -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:black_stool -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:dark_oak_desk -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: stoneworks:diorite_shingle_stairs -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: stoneworks:diorite_shingle_stairs -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: stoneworks:diorite_shingle_stairs -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: stoneworks:diorite_shingles -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: stoneworks:diorite_shingle_stairs -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chisel:large_tile/andesite -> using default)
+[06:47:25] [Server thread/ERROR]: Recoverable errors when loading section [-48, 8, -76]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: stoneworks:cobbled_calcite_stairs -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: stoneworks:cobbled_calcite_stairs -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chisel:chaotic_bricks/stone -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: stoneworks:diorite_shingle_stairs -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: stoneworks:diorite_shingle_stairs -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: stoneworks:diorite_shingle_stairs -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: decorative_blocks:brazier -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: decorative_blocks:chain -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: stoneworks:diorite_shingle_wall -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: stoneworks:diorite_shingle_wall -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: stoneworks:diorite_shingle_wall -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: securitycraft:secret_cherry_wall_hanging_sign -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: stoneworks:cobbled_calcite_stairs -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: stoneworks:cobbled_calcite_stairs -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: stoneworks:diorite_shingle_stairs -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: stoneworks:diorite_shingles -> using default)
+[06:47:25] [Server thread/ERROR]: Recoverable errors when loading section [-48, 9, -76]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: stoneworks:cobbled_calcite_stairs -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: stoneworks:cobbled_calcite_stairs -> using default)
+[06:47:25] [Server thread/ERROR]: Recoverable errors when loading section [-50, 7, -77]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chisel:chaotic_bricks/stone -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: stoneworks:stone_tiles -> using default)
+[06:47:25] [Server thread/ERROR]: Recoverable errors when loading section [-50, 7, -75]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chisel:chaotic_bricks/andesite -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chisel:chaotic_bricks/stone -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: stoneworks:stone_tiles -> using default)
+[06:47:25] [Server thread/ERROR]: Recoverable errors when loading section [-49, 7, -76]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:dark_oak_desk -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: stoneworks:stone_tile_slab -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:black_sofa -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:black_sofa -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:dark_oak_desk -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:black_sofa -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:black_sofa -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:black_sofa -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: stoneworks:diorite_shingle_stairs -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chisel:panel/stone -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: stoneworks:stone_tile_stairs -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: stoneworks:stone_tile_stairs -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: stoneworks:stone_tile_stairs -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chisel:large_tile/andesite -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: stoneworks:stone_tile_stairs -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chisel:chaotic_bricks/stone -> using default)
+[06:47:25] [Server thread/ERROR]: Recoverable errors when loading section [-49, 8, -76]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: stoneworks:cobbled_andesite_slab -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chisel:chaotic_bricks/stone -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: stoneworks:diorite_shingles -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: stoneworks:diorite_shingle_stairs -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: stoneworks:diorite_shingle_wall -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: stoneworks:diorite_shingle_wall -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: decorative_blocks:chain -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: stoneworks:diorite_shingle_stairs -> using default)
+[06:47:25] [Server thread/ERROR]: Recoverable errors when loading section [-49, 9, -76]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: decorative_blocks:chain -> using default)
+[06:47:25] [Server thread/ERROR]: Recoverable errors when loading section [-48, 7, -75]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:cherry_mail_box -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: stoneworks:stone_tile_stairs -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: stoneworks:stone_tile_stairs -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: stoneworks:stone_tile_stairs -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: stoneworks:stone_tile_stairs -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: stoneworks:stone_tile_stairs -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chisel:large_tile/andesite -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: stoneworks:stone_tile_stairs -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: stoneworks:stone_tile_stairs -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chisel:chaotic_bricks/stone -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: stoneworks:stone_tiles -> using default)
+[06:47:25] [Server thread/ERROR]: Recoverable errors when loading section [-48, 8, -75]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: securitycraft:secret_cherry_wall_hanging_sign -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: securitycraft:secret_cherry_wall_hanging_sign -> using default)
+[06:47:25] [Server thread/ERROR]: Recoverable errors when loading section [-47, 8, -74]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: connectedglass:borderless_glass_white_pane -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: connectedglass:borderless_glass_white_pane -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: connectedglass:borderless_glass_pink_pane -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: connectedglass:borderless_glass_white_pane -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: connectedglass:borderless_glass_pink_pane -> using default)
+[06:47:25] [Server thread/ERROR]: Recoverable errors when loading section [-47, 7, -76]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: stoneworks:stone_tile_slab -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: stoneworks:stone_tile_stairs -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: stoneworks:stone_tile_stairs -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chisel:panel/stone -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chisel:large_tile/andesite -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chisel:chaotic_bricks/stone -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: stoneworks:stone_tiles -> using default)
+[06:47:25] [Server thread/ERROR]: Recoverable errors when loading section [-50, 7, -76]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chisel:chaotic_bricks/stone -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: stoneworks:stone_tiles -> using default)
+[06:47:25] [Server thread/ERROR]: Recoverable errors when loading section [-49, 7, -77]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: stoneworks:diorite_shingle_stairs -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:dark_oak_desk -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: stoneworks:stone_tile_stairs -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chisel:large_tile/andesite -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chisel:chaotic_bricks/stone -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: stoneworks:stone_tiles -> using default)
+[06:47:25] [Server thread/ERROR]: Recoverable errors when loading section [-49, 8, -77]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chisel:chaotic_bricks/stone -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: stoneworks:diorite_shingles -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: stoneworks:diorite_shingle_stairs -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: decorative_blocks:chain -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: stoneworks:diorite_shingle_wall -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: stoneworks:diorite_shingle_stairs -> using default)
+[06:47:25] [Server thread/ERROR]: Recoverable errors when loading section [-46, 7, -76]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: stoneworks:stone_tiles -> using default)
+[06:47:25] [Server thread/ERROR]: Recoverable errors when loading section [-48, 7, -77]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: stoneworks:polished_calcite_wall -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: stoneworks:polished_calcite -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: stoneworks:diorite_shingle_stairs -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: stoneworks:diorite_shingle_stairs -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: stoneworks:diorite_shingle_stairs -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: stoneworks:diorite_shingles -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: stoneworks:diorite_shingle_stairs -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chisel:large_tile/andesite -> using default)
+[06:47:25] [Server thread/ERROR]: Recoverable errors when loading section [-48, 8, -77]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: stoneworks:diorite_shingle_wall -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: stoneworks:stone_tile_slab -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: stoneworks:stone_tile_slab -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chisel:chaotic_bricks/stone -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: decorative_blocks:bar_panel -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: stoneworks:diorite_shingle_stairs -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: stoneworks:diorite_shingle_stairs -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: decorative_blocks:bar_panel -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: stoneworks:diorite_shingle_stairs -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: decorative_blocks:bar_panel -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: decorative_blocks:bar_panel -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: decorative_blocks:bar_panel -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: stoneworks:cobbled_calcite_stairs -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: stoneworks:cobbled_calcite_stairs -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: decorative_blocks:chain -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: stoneworks:diorite_shingle_wall -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: stoneworks:diorite_shingle_wall -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: stoneworks:diorite_shingle_stairs -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: decorative_blocks:brazier -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: stoneworks:diorite_shingles -> using default)
+[06:47:25] [Server thread/ERROR]: Recoverable errors when loading section [-48, 9, -77]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:cherry_chair -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:cherry_desk -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:cherry_desk -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:cherry_chair -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:cherry_chair -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: decorative_blocks:chain -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: stoneworks:cobbled_calcite_stairs -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: stoneworks:cobbled_calcite_stairs -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: stoneworks:cobbled_calcite_stairs -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: stoneworks:cobbled_calcite_stairs -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: stoneworks:cobbled_calcite_stairs -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: stoneworks:cobbled_calcite_stairs -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: stoneworks:cobbled_calcite_stairs -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: stoneworks:diorite_shingle_wall -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: stoneworks:stone_tile_slab -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: stoneworks:cobbled_calcite_stairs -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: stoneworks:stone_tile_slab -> using default)
+[06:47:25] [Server thread/ERROR]: Recoverable errors when loading section [-46, 7, -75]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:gray_trampoline -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:gray_trampoline -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:gray_trampoline -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:gray_trampoline -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:gray_trampoline -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:gray_trampoline -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:gray_trampoline -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:gray_trampoline -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:gray_trampoline -> using default)
+[06:47:25] [Server thread/ERROR]: Recoverable errors when loading section [-46, 8, -75]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: connectedglass:borderless_glass_pink_pane -> using default)
+[06:47:25] [Server thread/ERROR]: Recoverable errors when loading section [-46, 7, -74]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:black_cooler -> using default)
+[06:47:25] [Server thread/ERROR]: Recoverable errors when loading section [-46, 8, -74]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: connectedglass:borderless_glass_white_pane -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: connectedglass:borderless_glass_white_pane -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: connectedglass:borderless_glass_pink_pane -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: connectedglass:borderless_glass_white_pane -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: connectedglass:borderless_glass_white_pane -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: connectedglass:borderless_glass_pink_pane -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: connectedglass:borderless_glass_pink_pane -> using default)
+[06:47:25] [Server thread/ERROR]: Recoverable errors when loading section [-47, 8, -73]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: connectedglass:borderless_glass_white_pane -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: connectedglass:borderless_glass_pink_pane -> using default)
+[06:47:25] [Server thread/ERROR]: Recoverable errors when loading section [-48, 7, -73]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: stoneworks:stone_tile_slab -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: stoneworks:stone_tile_slab -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: stoneworks:stone_tile_slab -> using default)
+[06:47:25] [Server thread/ERROR]: Recoverable errors when loading section [-47, 7, -77]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: stoneworks:stone_tile_stairs -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chisel:large_tile/andesite -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: stoneworks:stone_tiles -> using default)
+[06:47:25] [Server thread/ERROR]: Recoverable errors when loading section [-47, 8, -77]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chisel:chaotic_bricks/stone -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: decorative_blocks:chain -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: stoneworks:cobbled_calcite_stairs -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: stoneworks:cobbled_calcite_stairs -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:dark_oak_drawer -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:dark_oak_desk -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:dark_oak_drawer -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:dark_oak_storage_cabinet -> using default)
+[06:47:25] [Server thread/ERROR]: Recoverable errors when loading section [-46, 7, -77]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: stoneworks:stone_tiles -> using default)
+[06:47:25] [Server thread/WARN]: Skipping BlockEntity with id refurbished_furniture:mail_box
+[06:47:25] [Server thread/WARN]: Skipping BlockEntity with id securitycraft:secret_hanging_sign
+[06:47:25] [Server thread/WARN]: Skipping BlockEntity with id securitycraft:secret_hanging_sign
+[06:47:25] [Server thread/WARN]: Skipping BlockEntity with id securitycraft:secret_hanging_sign
+[06:47:25] [Server thread/WARN]: Skipping BlockEntity with id refurbished_furniture:door_mat
+[06:47:25] [Server thread/WARN]: Skipping BlockEntity with id securitycraft:secret_hanging_sign
+[06:47:25] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:25] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:25] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:25] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:25] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:25] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:25] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:25] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:25] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:25] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:25] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:25] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:25] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:25] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:25] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:25] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:25] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:25] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:25] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:25] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:25] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:25] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:25] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:25] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:25] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:25] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:25] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:25] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:25] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:25] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:25] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:25] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:25] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:25] [Server thread/ERROR]: Recoverable errors when loading section [-49, 7, -78]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chisel:large_tile/andesite -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: stoneworks:stone_tiles -> using default)
+[06:47:26] [Server thread/ERROR]: Recoverable errors when loading section [-47, 7, -78]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chisel:large_tile/andesite -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: stoneworks:stone_tiles -> using default)
+[06:47:26] [Server thread/ERROR]: Recoverable errors when loading section [-48, 7, -78]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chisel:large_tile/andesite -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: stoneworks:stone_tiles -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chisel:small_bricks/gray_concrete -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:dark_electricity_generator -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:dark_ceiling_light -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:dark_ceiling_light -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: connectedglass:borderless_glass_white_pane -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: connectedglass:borderless_glass_white_pane -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: connectedglass:borderless_glass_white_pane -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: connectedglass:borderless_glass_white_pane -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: connectedglass:borderless_glass_white_pane -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:gray_kitchen_cabinetry -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:gray_basin -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chisel:braid/quartz -> using default)
+[06:47:26] [Server thread/ERROR]: Recoverable errors when loading section [-51, 7, -74]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: connectedglass:clear_glass_pink -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: stoneworks:quartz_tile_slab -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: connectedglass:clear_glass_pane -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chisel:dent/quartz -> using default)
+[06:47:26] [Server thread/ERROR]: Recoverable errors when loading section [-51, 8, -74]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: stoneworks:quartz_tile_slab -> using default)
+[06:47:26] [Server thread/ERROR]: Recoverable errors when loading section [-46, 7, -79]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:oak_hedge -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: decorative_blocks:stone_pillar -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: stoneworks:calcite_tile_slab -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chisel:raw/light_gray_concrete -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: stoneworks:calcite_tile_slab -> using default)
+[06:47:26] [Server thread/ERROR]: Recoverable errors when loading section [-51, 7, -75]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: connectedglass:clear_glass_pink -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: connectedglass:clear_glass_pane -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: stoneworks:quartz_tile_slab -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chisel:dent/quartz -> using default)
+[06:47:26] [Server thread/ERROR]: Recoverable errors when loading section [-51, 8, -75]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: stoneworks:quartz_tile_slab -> using default)
+[06:47:26] [Server thread/ERROR]: Recoverable errors when loading section [-48, 7, -79]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chisel:spaceblack/iron_block -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:oak_hedge -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chisel:small_bricks/gray_concrete -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:light_ceiling_light -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:dark_ceiling_light -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:light_ceiling_light -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chisel:large_tile/glowstone -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:light_ceiling_light -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:light_ceiling_light -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:oak_hedge -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:oak_hedge -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:light_ceiling_light -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:dark_ceiling_light -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:dark_ceiling_light -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: stoneworks:polished_quartz_slab -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: connectedglass:clear_glass_black -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: connectedglass:borderless_glass_white_pane -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:dark_lightswitch -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:computer -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:television -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:dark_lightswitch -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:light_lightswitch -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:dark_oak_storage_jar -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:dark_lightswitch -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:oak_storage_jar -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:computer -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:oak_storage_jar -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:light_lightswitch -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:dark_oak_desk -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:television -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: securitycraft:reinforced_black_concrete -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:gray_kitchen_cabinetry -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: variantvanillablocks:dark_oak_chiseled_bookshelf -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:gray_toilet -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:dark_oak_drawer -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: variantvanillablocks:dark_oak_bookshelf -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: variantvanillablocks:dark_oak_chiseled_bookshelf -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:birch_drawer -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:birch_table -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:birch_table -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:birch_table -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: sophisticatedbackpacks:backpack -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:black_sofa -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:spruce_drawer -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:black_sofa -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:black_sofa -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:black_sofa -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:birch_drawer -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:birch_drawer -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: decorative_blocks:dark_oak_support -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:dark_oak_table -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:dark_oak_desk -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:dark_oak_desk -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:dark_oak_desk -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:dark_oak_desk -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:dark_oak_desk -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:dark_oak_table -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:black_sofa -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:dark_oak_desk -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:gray_sofa -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: decorative_blocks:dark_oak_support -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:gray_stool -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: stoneworks:quartz_tiles -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chisel:raw/light_gray_concrete -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chisel:braid/quartz -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chisel:array/andesite -> using default)
+[06:47:26] [Server thread/ERROR]: Recoverable errors when loading section [-49, 7, -79]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:cherry_mail_box -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:light_ceiling_light -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:dark_oak_dark_ceiling_fan -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:light_ceiling_light -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:light_lightswitch -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:dark_oak_storage_jar -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:computer -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chisel:large_tile/glowstone -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:dark_oak_table -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:black_sofa -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:dark_oak_table -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:dark_oak_table -> using default)
+[06:47:26] [Server thread/ERROR]: Recoverable errors when loading section [-47, 7, -79]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chisel:spaceblack/iron_block -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:oak_hedge -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:dark_ceiling_light -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:dark_ceiling_light -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:dark_ceiling_light -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:dark_ceiling_light -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:dark_ceiling_light -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:dark_ceiling_light -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chisel:large_tile/glowstone -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:light_ceiling_light -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: stoneworks:polished_quartz_slab -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: connectedglass:clear_glass_black -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:dark_lightswitch -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:oak_hedge -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: variantvanillablocks:dark_oak_chiseled_bookshelf -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: connectedglass:clear_glass_black_pane -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:dark_lightswitch -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:dark_lightswitch -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:dark_oak_storage_jar -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:computer -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: connectedglass:borderless_glass_white_pane -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: decorative_blocks:spruce_support -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: connectedglass:clear_glass_black_pane -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:gray_toilet -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: variantvanillablocks:dark_oak_bookshelf -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:dark_oak_desk -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: connectedglass:clear_glass_black_pane -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: variantvanillablocks:dark_oak_chiseled_bookshelf -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:dark_oak_desk -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:dark_oak_drawer -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: variantvanillablocks:dark_oak_chiseled_bookshelf -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: stoneworks:calcite_tile_slab -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:black_sofa -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: stoneworks:calcite_tile_slab -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:black_basin -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:gray_kitchen_cabinetry -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:gray_kitchen_drawer -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:dark_oak_desk -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:dark_oak_desk -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:dark_oak_desk -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:dark_oak_desk -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:dark_oak_desk -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chisel:zag/gray_concrete -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:dark_oak_table -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chisel:raw/light_gray_concrete -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chisel:slant/cyan_concrete -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chisel:spaceblack/gold_block -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: securitycraft:reinforced_black_concrete -> using default)
+[06:47:26] [Server thread/WARN]: Skipping BlockEntity with id refurbished_furniture:drawer
+[06:47:26] [Server thread/WARN]: Skipping BlockEntity with id refurbished_furniture:cabinet
+[06:47:26] [Server thread/WARN]: Skipping BlockEntity with id refurbished_furniture:drawer
+[06:47:26] [Server thread/WARN]: Skipping BlockEntity with id refurbished_furniture:cooler
+[06:47:26] [Server thread/WARN]: Skipping BlockEntity with id refurbished_furniture:electricity_generator
+[06:47:26] [Server thread/WARN]: Skipping BlockEntity with id refurbished_furniture:basin
+[06:47:26] [Server thread/WARN]: Skipping BlockEntity with id refurbished_furniture:ceiling_light
+[06:47:26] [Server thread/WARN]: Skipping BlockEntity with id refurbished_furniture:ceiling_light
+[06:47:26] [Server thread/ERROR]: Recoverable errors when loading section [-52, 7, -75]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: connectedglass:clear_glass_pink -> using default)
+[06:47:26] [Server thread/ERROR]: Recoverable errors when loading section [-52, 8, -75]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: stoneworks:diorite_shingle_wall -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: stoneworks:diorite_shingle_wall -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: stoneworks:diorite_shingle_wall -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: stoneworks:diorite_shingle_wall -> using default)
+[06:47:26] [Server thread/ERROR]: Recoverable errors when loading section [-52, 9, -75]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: stoneworks:diorite_shingle_wall -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: stoneworks:diorite_shingle_wall -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: stoneworks:diorite_shingle_wall -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: decorative_blocks:chain -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: connectedglass:clear_glass_pink -> using default)
+[06:47:26] [Server thread/ERROR]: Recoverable errors when loading section [-52, 10, -75]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: decorative_blocks:chain -> using default)
+[06:47:26] [Server thread/ERROR]: Recoverable errors when loading section [-52, 7, -74]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: connectedglass:clear_glass_pink -> using default)
+[06:47:26] [Server thread/ERROR]: Recoverable errors when loading section [-52, 8, -74]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: decorative_blocks:chain -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: stoneworks:diorite_shingle_wall -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: stoneworks:diorite_shingle_wall -> using default)
+[06:47:26] [Server thread/ERROR]: Recoverable errors when loading section [-52, 9, -74]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: stoneworks:diorite_shingle_wall -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: decorative_blocks:chain -> using default)
+[06:47:26] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:26] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:26] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:26] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:26] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:26] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:26] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:26] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:26] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:26] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:26] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:26] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:26] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:26] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:26] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:26] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:26] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:26] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:26] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:26] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:26] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:26] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:26] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:26] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:26] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:26] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:26] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:26] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:26] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:26] [Server thread/WARN]: Ignoring unknown attribute 'forge:swim_speed'
+[06:47:26] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:26] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:26] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:26] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:26] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:26] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:26] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:26] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:26] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:26] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:26] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:26] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:26] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:26] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:26] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:26] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:26] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:26] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:26] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:26] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:26] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:26] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:26] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:26] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:26] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:26] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:26] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:26] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:26] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:26] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:26] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:26] [Server thread/ERROR]: Recoverable errors when loading section [-47, 3, -70]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: securitycraft:ancient_debris_mine -> using default)
+[06:47:26] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:26] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:26] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:26] [Server thread/ERROR]: Tried to load invalid item: 'Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: sophisticatedbackpacks:copper_backpack'
+[06:47:26] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:26] [Server thread/ERROR]: Recoverable errors when loading section [-49, 7, -80]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chisel:large_tile/glowstone -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:light_ceiling_light -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:plate -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:light_electricity_generator -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:dark_oak_chair -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:dark_oak_table -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:dark_oak_table -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:dark_oak_table -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:dark_oak_table -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:dark_oak_chair -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:gray_sofa -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:gray_sofa -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:gray_sofa -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:recycle_bin -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: connectedglass:borderless_glass_black_pane -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: connectedglass:borderless_glass_black_pane -> using default)
+[06:47:26] [Server thread/ERROR]: Recoverable errors when loading section [-47, 7, -80]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chisel:spaceblack/iron_block -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:light_ceiling_light -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: decorative_blocks:spruce_support -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:computer -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:oak_storage_cabinet -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:dark_oak_table -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:spruce_chair -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:dark_oak_table -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:dark_electricity_generator -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chisel:zag/gray_concrete -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chisel:slant/cyan_concrete -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chisel:spaceblack/gold_block -> using default)
+[06:47:26] [Server thread/ERROR]: Recoverable errors when loading section [-48, 7, -80]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chisel:spaceblack/iron_block -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:light_ceiling_light -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:light_ceiling_light -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:light_range_hood -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:light_ceiling_light -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:light_lightswitch -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:dark_ceiling_light -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:dark_ceiling_light -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:dark_ceiling_light -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: sophisticatedbackpacks:backpack -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:cyan_lamp -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: decorative_blocks:lattice -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:white_lamp -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:light_fridge -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:light_lightswitch -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:oak_hedge -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:oak_cutting_board -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:light_lightswitch -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:oak_hedge -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:light_microwave -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: connectedglass:borderless_glass_white_pane -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: decorative_blocks:dark_oak_support -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:gray_sofa -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:dark_oak_table -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:spruce_drawer -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:light_freezer -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chisel:zag/gray_concrete -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:gray_toilet -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:gray_kitchen_sink -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:light_stove -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:gray_bath -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:gray_kitchen_cabinetry -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:gray_bath -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:gray_kitchen_drawer -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:gray_basin -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:gray_kitchen_cabinetry -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: refurbished_furniture:gray_kitchen_drawer -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: connectedglass:borderless_glass_black_pane -> using default)
+[06:47:26] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:26] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:26] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:26] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:26] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:26] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:26] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:26] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:26] [Server thread/WARN]: Skipping BlockEntity with id refurbished_furniture:lightswitch
+[06:47:26] [Server thread/WARN]: Skipping BlockEntity with id refurbished_furniture:mail_box
+[06:47:26] [Server thread/WARN]: Skipping BlockEntity with id refurbished_furniture:lightswitch
+[06:47:26] [Server thread/WARN]: Skipping BlockEntity with id refurbished_furniture:ceiling_fan
+[06:47:26] [Server thread/WARN]: Skipping BlockEntity with id refurbished_furniture:storage_jar
+[06:47:26] [Server thread/WARN]: Skipping BlockEntity with id refurbished_furniture:computer
+[06:47:26] [Server thread/WARN]: Skipping BlockEntity with id refurbished_furniture:ceiling_light
+[06:47:26] [Server thread/WARN]: Skipping BlockEntity with id refurbished_furniture:computer
+[06:47:26] [Server thread/WARN]: Skipping BlockEntity with id refurbished_furniture:ceiling_light
+[06:47:26] [Server thread/WARN]: Skipping BlockEntity with id refurbished_furniture:lightswitch
+[06:47:26] [Server thread/WARN]: Skipping BlockEntity with id refurbished_furniture:television
+[06:47:26] [Server thread/WARN]: Skipping BlockEntity with id refurbished_furniture:computer
+[06:47:26] [Server thread/WARN]: Skipping BlockEntity with id refurbished_furniture:lightswitch
+[06:47:26] [Server thread/WARN]: Skipping BlockEntity with id refurbished_furniture:ceiling_light
+[06:47:26] [Server thread/WARN]: Skipping BlockEntity with id refurbished_furniture:storage_jar
+[06:47:26] [Server thread/WARN]: Skipping BlockEntity with id refurbished_furniture:storage_jar
+[06:47:26] [Server thread/WARN]: Skipping BlockEntity with id refurbished_furniture:computer
+[06:47:26] [Server thread/WARN]: Skipping BlockEntity with id refurbished_furniture:storage_jar
+[06:47:26] [Server thread/WARN]: Skipping BlockEntity with id refurbished_furniture:ceiling_light
+[06:47:26] [Server thread/WARN]: Skipping BlockEntity with id refurbished_furniture:lightswitch
+[06:47:26] [Server thread/WARN]: Skipping BlockEntity with id refurbished_furniture:ceiling_light
+[06:47:26] [Server thread/WARN]: Skipping BlockEntity with id refurbished_furniture:television
+[06:47:26] [Server thread/ERROR]: Failed to create block entity minecraft:chiseled_bookshelf
+java.lang.IllegalStateException: Invalid block entity minecraft:chiseled_bookshelf // net.minecraft.class_7716 state at class_2338{x=-755, y=117, z=-1252}, got Block{minecraft:air}
+	at net.minecraft.class_2586.method_61175(class_2586.java:57) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2586.<init>(class_2586.java:51) ~[server-intermediary.jar:?]
+	at net.minecraft.class_7716.<init>(class_7716.java:36) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2591.method_11032(class_2591.java:99) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2586.method_17899(class_2586.java:186) ~[server-intermediary.jar:?]
+	at java.base/java.util.Optional.map(Optional.java:260) ~[?:?]
+	at net.minecraft.class_2586.method_11005(class_2586.java:184) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2852.method_39797(class_2852.java:411) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2818.method_12206(class_2818.java:471) ~[server-intermediary.jar:?]
+	at net.minecraft.class_9310.method_60553(class_9310.java:147) ~[server-intermediary.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at net.minecraft.class_3900.method_17634(class_3900.java:62) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_18859(class_1255.java:162) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3215$class_4212.method_18859(class_3215.java:552) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_16075(class_1255.java:136) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3215$class_4212.method_16075(class_3215.java:561) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3215.method_19492(class_3215.java:263) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:852) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:840) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_18857(class_1255.java:145) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_18857(MinecraftServer.java:810) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:815) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:702) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:281) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[06:47:26] [Server thread/WARN]: Skipping BlockEntity with id minecraft:chiseled_bookshelf
+[06:47:26] [Server thread/ERROR]: Failed to create block entity minecraft:chiseled_bookshelf
+java.lang.IllegalStateException: Invalid block entity minecraft:chiseled_bookshelf // net.minecraft.class_7716 state at class_2338{x=-755, y=117, z=-1250}, got Block{minecraft:air}
+	at net.minecraft.class_2586.method_61175(class_2586.java:57) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2586.<init>(class_2586.java:51) ~[server-intermediary.jar:?]
+	at net.minecraft.class_7716.<init>(class_7716.java:36) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2591.method_11032(class_2591.java:99) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2586.method_17899(class_2586.java:186) ~[server-intermediary.jar:?]
+	at java.base/java.util.Optional.map(Optional.java:260) ~[?:?]
+	at net.minecraft.class_2586.method_11005(class_2586.java:184) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2852.method_39797(class_2852.java:411) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2818.method_12206(class_2818.java:471) ~[server-intermediary.jar:?]
+	at net.minecraft.class_9310.method_60553(class_9310.java:147) ~[server-intermediary.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at net.minecraft.class_3900.method_17634(class_3900.java:62) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_18859(class_1255.java:162) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3215$class_4212.method_18859(class_3215.java:552) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_16075(class_1255.java:136) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3215$class_4212.method_16075(class_3215.java:561) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3215.method_19492(class_3215.java:263) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:852) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:840) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_18857(class_1255.java:145) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_18857(MinecraftServer.java:810) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:815) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:702) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:281) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[06:47:26] [Server thread/WARN]: Skipping BlockEntity with id minecraft:chiseled_bookshelf
+[06:47:26] [Server thread/WARN]: Skipping BlockEntity with id refurbished_furniture:drawer
+[06:47:26] [Server thread/WARN]: Skipping BlockEntity with id sophisticatedbackpacks:backpack
+[06:47:26] [Server thread/WARN]: Skipping BlockEntity with id refurbished_furniture:toilet
+[06:47:26] [Server thread/WARN]: Skipping BlockEntity with id refurbished_furniture:ceiling_light
+[06:47:26] [Server thread/WARN]: Skipping BlockEntity with id refurbished_furniture:ceiling_light
+[06:47:26] [Server thread/WARN]: Skipping BlockEntity with id refurbished_furniture:ceiling_light
+[06:47:26] [Server thread/WARN]: Skipping BlockEntity with id refurbished_furniture:lightswitch
+[06:47:26] [Server thread/WARN]: Skipping BlockEntity with id refurbished_furniture:ceiling_light
+[06:47:26] [Server thread/WARN]: Skipping BlockEntity with id refurbished_furniture:ceiling_light
+[06:47:26] [Server thread/ERROR]: Failed to create block entity minecraft:chiseled_bookshelf
+java.lang.IllegalStateException: Invalid block entity minecraft:chiseled_bookshelf // net.minecraft.class_7716 state at class_2338{x=-755, y=118, z=-1251}, got Block{minecraft:air}
+	at net.minecraft.class_2586.method_61175(class_2586.java:57) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2586.<init>(class_2586.java:51) ~[server-intermediary.jar:?]
+	at net.minecraft.class_7716.<init>(class_7716.java:36) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2591.method_11032(class_2591.java:99) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2586.method_17899(class_2586.java:186) ~[server-intermediary.jar:?]
+	at java.base/java.util.Optional.map(Optional.java:260) ~[?:?]
+	at net.minecraft.class_2586.method_11005(class_2586.java:184) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2852.method_39797(class_2852.java:411) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2818.method_12206(class_2818.java:471) ~[server-intermediary.jar:?]
+	at net.minecraft.class_9310.method_60553(class_9310.java:147) ~[server-intermediary.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at net.minecraft.class_3900.method_17634(class_3900.java:62) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_18859(class_1255.java:162) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3215$class_4212.method_18859(class_3215.java:552) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_16075(class_1255.java:136) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3215$class_4212.method_16075(class_3215.java:561) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3215.method_19492(class_3215.java:263) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:852) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:840) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_18857(class_1255.java:145) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_18857(MinecraftServer.java:810) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:815) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:702) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:281) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[06:47:26] [Server thread/WARN]: Skipping BlockEntity with id minecraft:chiseled_bookshelf
+[06:47:26] [Server thread/WARN]: Skipping BlockEntity with id refurbished_furniture:ceiling_light
+[06:47:26] [Server thread/WARN]: Skipping BlockEntity with id refurbished_furniture:lightswitch
+[06:47:26] [Server thread/WARN]: Skipping BlockEntity with id refurbished_furniture:drawer
+[06:47:26] [Server thread/WARN]: Skipping BlockEntity with id refurbished_furniture:drawer
+[06:47:26] [Server thread/WARN]: Skipping BlockEntity with id refurbished_furniture:ceiling_light
+[06:47:26] [Server thread/WARN]: Skipping BlockEntity with id refurbished_furniture:drawer
+[06:47:26] [Server thread/WARN]: Skipping BlockEntity with id refurbished_furniture:ceiling_light
+[06:47:26] [Server thread/WARN]: Skipping BlockEntity with id refurbished_furniture:ceiling_light
+[06:47:26] [Server thread/WARN]: Skipping BlockEntity with id securitycraft:ownable
+[06:47:26] [Server thread/WARN]: Skipping BlockEntity with id refurbished_furniture:drawer
+[06:47:26] [Server thread/WARN]: Skipping BlockEntity with id refurbished_furniture:ceiling_light
+[06:47:26] [Server thread/WARN]: Skipping BlockEntity with id refurbished_furniture:ceiling_light
+[06:47:26] [Server thread/WARN]: Skipping BlockEntity with id refurbished_furniture:toilet
+[06:47:26] [Server thread/ERROR]: Failed to create block entity minecraft:chiseled_bookshelf
+java.lang.IllegalStateException: Invalid block entity minecraft:chiseled_bookshelf // net.minecraft.class_7716 state at class_2338{x=-748, y=118, z=-1250}, got Block{minecraft:air}
+	at net.minecraft.class_2586.method_61175(class_2586.java:57) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2586.<init>(class_2586.java:51) ~[server-intermediary.jar:?]
+	at net.minecraft.class_7716.<init>(class_7716.java:36) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2591.method_11032(class_2591.java:99) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2586.method_17899(class_2586.java:186) ~[server-intermediary.jar:?]
+	at java.base/java.util.Optional.map(Optional.java:260) ~[?:?]
+	at net.minecraft.class_2586.method_11005(class_2586.java:184) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2852.method_39797(class_2852.java:411) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2818.method_12206(class_2818.java:471) ~[server-intermediary.jar:?]
+	at net.minecraft.class_9310.method_60553(class_9310.java:147) ~[server-intermediary.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at net.minecraft.class_3900.method_17634(class_3900.java:62) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_18859(class_1255.java:162) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3215$class_4212.method_18859(class_3215.java:552) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_16075(class_1255.java:136) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3215$class_4212.method_16075(class_3215.java:561) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3215.method_19492(class_3215.java:263) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:852) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:840) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_18857(class_1255.java:145) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_18857(MinecraftServer.java:810) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:815) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:702) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:281) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[06:47:26] [Server thread/WARN]: Skipping BlockEntity with id minecraft:chiseled_bookshelf
+[06:47:26] [Server thread/WARN]: Skipping BlockEntity with id refurbished_furniture:ceiling_light
+[06:47:26] [Server thread/WARN]: Skipping BlockEntity with id refurbished_furniture:ceiling_light
+[06:47:26] [Server thread/WARN]: Skipping BlockEntity with id refurbished_furniture:lightswitch
+[06:47:26] [Server thread/WARN]: Skipping BlockEntity with id refurbished_furniture:ceiling_light
+[06:47:26] [Server thread/WARN]: Skipping BlockEntity with id refurbished_furniture:ceiling_light
+[06:47:26] [Server thread/WARN]: Skipping BlockEntity with id refurbished_furniture:ceiling_light
+[06:47:26] [Server thread/WARN]: Skipping BlockEntity with id refurbished_furniture:ceiling_light
+[06:47:26] [Server thread/ERROR]: Failed to create block entity minecraft:chiseled_bookshelf
+java.lang.IllegalStateException: Invalid block entity minecraft:chiseled_bookshelf // net.minecraft.class_7716 state at class_2338{x=-748, y=118, z=-1251}, got Block{minecraft:air}
+	at net.minecraft.class_2586.method_61175(class_2586.java:57) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2586.<init>(class_2586.java:51) ~[server-intermediary.jar:?]
+	at net.minecraft.class_7716.<init>(class_7716.java:36) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2591.method_11032(class_2591.java:99) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2586.method_17899(class_2586.java:186) ~[server-intermediary.jar:?]
+	at java.base/java.util.Optional.map(Optional.java:260) ~[?:?]
+	at net.minecraft.class_2586.method_11005(class_2586.java:184) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2852.method_39797(class_2852.java:411) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2818.method_12206(class_2818.java:471) ~[server-intermediary.jar:?]
+	at net.minecraft.class_9310.method_60553(class_9310.java:147) ~[server-intermediary.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at net.minecraft.class_3900.method_17634(class_3900.java:62) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_18859(class_1255.java:162) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3215$class_4212.method_18859(class_3215.java:552) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_16075(class_1255.java:136) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3215$class_4212.method_16075(class_3215.java:561) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3215.method_19492(class_3215.java:263) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:852) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:840) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_18857(class_1255.java:145) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_18857(MinecraftServer.java:810) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:815) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:702) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:281) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[06:47:26] [Server thread/WARN]: Skipping BlockEntity with id minecraft:chiseled_bookshelf
+[06:47:26] [Server thread/WARN]: Skipping BlockEntity with id refurbished_furniture:storage_jar
+[06:47:26] [Server thread/WARN]: Skipping BlockEntity with id refurbished_furniture:computer
+[06:47:26] [Server thread/WARN]: Skipping BlockEntity with id refurbished_furniture:ceiling_light
+[06:47:26] [Server thread/WARN]: Skipping BlockEntity with id refurbished_furniture:lightswitch
+[06:47:26] [Server thread/WARN]: Skipping BlockEntity with id refurbished_furniture:ceiling_light
+[06:47:26] [Server thread/WARN]: Skipping BlockEntity with id refurbished_furniture:ceiling_light
+[06:47:26] [Server thread/WARN]: Skipping BlockEntity with id refurbished_furniture:ceiling_light
+[06:47:26] [Server thread/WARN]: Skipping BlockEntity with id refurbished_furniture:ceiling_light
+[06:47:26] [Server thread/WARN]: Skipping BlockEntity with id refurbished_furniture:lightswitch
+[06:47:26] [Server thread/ERROR]: Failed to create block entity minecraft:chiseled_bookshelf
+java.lang.IllegalStateException: Invalid block entity minecraft:chiseled_bookshelf // net.minecraft.class_7716 state at class_2338{x=-748, y=117, z=-1251}, got Block{minecraft:air}
+	at net.minecraft.class_2586.method_61175(class_2586.java:57) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2586.<init>(class_2586.java:51) ~[server-intermediary.jar:?]
+	at net.minecraft.class_7716.<init>(class_7716.java:36) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2591.method_11032(class_2591.java:99) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2586.method_17899(class_2586.java:186) ~[server-intermediary.jar:?]
+	at java.base/java.util.Optional.map(Optional.java:260) ~[?:?]
+	at net.minecraft.class_2586.method_11005(class_2586.java:184) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2852.method_39797(class_2852.java:411) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2818.method_12206(class_2818.java:471) ~[server-intermediary.jar:?]
+	at net.minecraft.class_9310.method_60553(class_9310.java:147) ~[server-intermediary.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at net.minecraft.class_3900.method_17634(class_3900.java:62) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_18859(class_1255.java:162) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3215$class_4212.method_18859(class_3215.java:552) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_16075(class_1255.java:136) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3215$class_4212.method_16075(class_3215.java:561) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3215.method_19492(class_3215.java:263) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:852) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:840) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_18857(class_1255.java:145) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_18857(MinecraftServer.java:810) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:815) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:702) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:281) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[06:47:26] [Server thread/WARN]: Skipping BlockEntity with id minecraft:chiseled_bookshelf
+[06:47:26] [Server thread/WARN]: Skipping BlockEntity with id refurbished_furniture:kitchen_drawer
+[06:47:26] [Server thread/WARN]: Skipping BlockEntity with id securitycraft:ownable
+[06:47:26] [Server thread/ERROR]: Failed to create block entity minecraft:chiseled_bookshelf
+java.lang.IllegalStateException: Invalid block entity minecraft:chiseled_bookshelf // net.minecraft.class_7716 state at class_2338{x=-748, y=117, z=-1252}, got Block{minecraft:air}
+	at net.minecraft.class_2586.method_61175(class_2586.java:57) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2586.<init>(class_2586.java:51) ~[server-intermediary.jar:?]
+	at net.minecraft.class_7716.<init>(class_7716.java:36) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2591.method_11032(class_2591.java:99) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2586.method_17899(class_2586.java:186) ~[server-intermediary.jar:?]
+	at java.base/java.util.Optional.map(Optional.java:260) ~[?:?]
+	at net.minecraft.class_2586.method_11005(class_2586.java:184) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2852.method_39797(class_2852.java:411) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2818.method_12206(class_2818.java:471) ~[server-intermediary.jar:?]
+	at net.minecraft.class_9310.method_60553(class_9310.java:147) ~[server-intermediary.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at net.minecraft.class_3900.method_17634(class_3900.java:62) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_18859(class_1255.java:162) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3215$class_4212.method_18859(class_3215.java:552) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_16075(class_1255.java:136) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3215$class_4212.method_16075(class_3215.java:561) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3215.method_19492(class_3215.java:263) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:852) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:840) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_18857(class_1255.java:145) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_18857(MinecraftServer.java:810) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:815) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:702) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:281) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[06:47:26] [Server thread/WARN]: Skipping BlockEntity with id minecraft:chiseled_bookshelf
+[06:47:26] [Server thread/WARN]: Skipping BlockEntity with id refurbished_furniture:kitchen_drawer
+[06:47:26] [Server thread/WARN]: Skipping BlockEntity with id refurbished_furniture:drawer
+[06:47:26] [Server thread/WARN]: Skipping BlockEntity with id refurbished_furniture:basin
+[06:47:26] [Server thread/WARN]: Skipping BlockEntity with id securitycraft:ownable
+[06:47:26] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:26] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:26] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:26] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:26] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:26] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:26] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:26] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:26] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:26] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:26] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:26] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:26] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:26] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:26] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:26] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:26] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:26] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:26] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:26] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:26] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:26] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:26] [Server thread/ERROR]: Tried to load invalid item: 'Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: refurbished_furniture:television_remote'
+[06:47:26] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:26] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:26] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:26] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:26] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:26] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:26] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:26] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:26] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:26] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:26] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:26] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:26] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:26] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:26] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:26] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:26] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:26] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:27] [Server thread/WARN]: Skipping BlockEntity with id refurbished_furniture:recycle_bin
+[06:47:27] [Server thread/WARN]: Skipping BlockEntity with id refurbished_furniture:ceiling_light
+[06:47:27] [Server thread/WARN]: Skipping BlockEntity with id refurbished_furniture:ceiling_light
+[06:47:27] [Server thread/WARN]: Skipping BlockEntity with id refurbished_furniture:electricity_generator
+[06:47:27] [Server thread/WARN]: Skipping BlockEntity with id refurbished_furniture:plate
+[06:47:27] [Server thread/WARN]: Skipping BlockEntity with id refurbished_furniture:plate
+[06:47:27] [Server thread/WARN]: Skipping BlockEntity with id refurbished_furniture:plate
+[06:47:27] [Server thread/WARN]: Skipping BlockEntity with id refurbished_furniture:plate
+[06:47:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:27] [Server thread/WARN]: Skipping BlockEntity with id securitycraft:abstract
+[06:47:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:swim_speed'
+[06:47:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:27] [Server thread/WARN]: Skipping BlockEntity with id refurbished_furniture:ceiling_light
+[06:47:27] [Server thread/WARN]: Skipping BlockEntity with id refurbished_furniture:ceiling_light
+[06:47:27] [Server thread/WARN]: Skipping BlockEntity with id refurbished_furniture:ceiling_light
+[06:47:27] [Server thread/WARN]: Skipping BlockEntity with id refurbished_furniture:ceiling_light
+[06:47:27] [Server thread/WARN]: Skipping BlockEntity with id refurbished_furniture:bath
+[06:47:27] [Server thread/WARN]: Skipping BlockEntity with id refurbished_furniture:ceiling_light
+[06:47:27] [Server thread/WARN]: Skipping BlockEntity with id refurbished_furniture:toilet
+[06:47:27] [Server thread/WARN]: Skipping BlockEntity with id refurbished_furniture:ceiling_light
+[06:47:27] [Server thread/WARN]: Skipping BlockEntity with id refurbished_furniture:lightswitch
+[06:47:27] [Server thread/WARN]: Skipping BlockEntity with id refurbished_furniture:bath
+[06:47:27] [Server thread/WARN]: Skipping BlockEntity with id refurbished_furniture:kitchen_drawer
+[06:47:27] [Server thread/WARN]: Skipping BlockEntity with id refurbished_furniture:kitchen_sink
+[06:47:27] [Server thread/WARN]: Skipping BlockEntity with id refurbished_furniture:ceiling_light
+[06:47:27] [Server thread/WARN]: Skipping BlockEntity with id refurbished_furniture:kitchen_drawer
+[06:47:27] [Server thread/WARN]: Skipping BlockEntity with id refurbished_furniture:freezer
+[06:47:27] [Server thread/WARN]: Skipping BlockEntity with id refurbished_furniture:basin
+[06:47:27] [Server thread/WARN]: Skipping BlockEntity with id refurbished_furniture:kitchen_drawer
+[06:47:27] [Server thread/WARN]: Skipping BlockEntity with id refurbished_furniture:stove
+[06:47:27] [Server thread/WARN]: Skipping BlockEntity with id refurbished_furniture:ceiling_light
+[06:47:27] [Server thread/WARN]: Skipping BlockEntity with id refurbished_furniture:ceiling_light
+[06:47:27] [Server thread/WARN]: Skipping BlockEntity with id refurbished_furniture:drawer
+[06:47:27] [Server thread/WARN]: Skipping BlockEntity with id refurbished_furniture:fridge
+[06:47:27] [Server thread/WARN]: Skipping BlockEntity with id refurbished_furniture:ceiling_light
+[06:47:27] [Server thread/WARN]: Skipping BlockEntity with id sophisticatedbackpacks:backpack
+[06:47:27] [Server thread/WARN]: Skipping BlockEntity with id refurbished_furniture:lightswitch
+[06:47:27] [Server thread/WARN]: Skipping BlockEntity with id refurbished_furniture:cutting_board
+[06:47:27] [Server thread/WARN]: Skipping BlockEntity with id refurbished_furniture:microwave
+[06:47:27] [Server thread/WARN]: Skipping BlockEntity with id refurbished_furniture:range_hood
+[06:47:27] [Server thread/WARN]: Skipping BlockEntity with id refurbished_furniture:lightswitch
+[06:47:27] [Server thread/WARN]: Skipping BlockEntity with id refurbished_furniture:ceiling_light
+[06:47:27] [Server thread/WARN]: Skipping BlockEntity with id refurbished_furniture:ceiling_light
+[06:47:27] [Server thread/WARN]: Skipping BlockEntity with id refurbished_furniture:computer
+[06:47:27] [Server thread/WARN]: Skipping BlockEntity with id refurbished_furniture:electricity_generator
+[06:47:27] [Server thread/WARN]: Skipping BlockEntity with id refurbished_furniture:ceiling_light
+[06:47:27] [Server thread/WARN]: Skipping BlockEntity with id refurbished_furniture:cabinet
+[06:47:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:swim_speed'
+[06:47:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:27] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:28] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:28] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:28] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:28] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:28] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:28] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:28] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:28] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:28] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:28] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:28] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:28] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:28] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:28] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:28] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:28] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:28] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:28] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:29] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:29] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:29] [Server thread/ERROR]: Tried to load invalid item: 'Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: tombstone:scroll_of_feather_fall'
+[06:47:30] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:30] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:30] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:30] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:30] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:30] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:31] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:31] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:31] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:31] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:31] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:31] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:31] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:31] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:31] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:31] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:31] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:31] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:31] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:31] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:31] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:31] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:31] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:31] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:31] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:31] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:31] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:31] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:47] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:47] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:47:48] [Server thread/INFO]: Named entity class_5776['calamarda'/2275, l='ServerLevel[world]', x=-809.44, y=124.00, z=-1183.23] died: calamarda drowned
+[06:47:53] [Server thread/INFO]: Named entity class_5776['calamardo'/2277, l='ServerLevel[world]', x=-809.58, y=124.00, z=-1184.07] died: calamardo drowned
+[06:48:15] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:48:15] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:48:15] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:48:15] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:48:15] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:48:15] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:48:15] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:48:15] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:48:15] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:48:15] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:48:15] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:48:15] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:48:15] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:48:15] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:48:20] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:48:20] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:49:04] [Server thread/INFO]: [PeladinPeladon: Set spawn point to -762, 126, -1225 [0.0] in minecraft:overworld for PeladinPeladon]
+[06:49:29] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:49:29] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:49:29] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:49:29] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:49:29] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:49:29] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:49:48] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:49:48] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:49:48] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:49:48] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:49:48] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:49:48] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:49:48] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:49:48] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:49:48] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:49:48] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:49:48] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:49:48] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:49:49] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:49:49] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:49:49] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:49:49] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:49:49] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:49:49] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:49:49] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:49:49] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:49:49] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:49:49] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:49:49] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:49:49] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:49:49] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:49:49] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:50:01] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:50:01] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:50:01] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:50:01] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:50:01] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:50:01] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:50:01] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:50:01] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:50:01] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:50:01] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:50:03] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:50:03] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:50:03] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:50:03] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:50:03] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:50:03] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:50:03] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:50:03] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:50:03] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:50:03] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:50:03] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:50:03] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:50:03] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:50:03] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:50:03] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:50:03] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:50:03] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:50:03] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:50:03] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:50:03] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:50:03] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:50:03] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:50:03] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:50:03] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:50:03] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:50:03] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:50:03] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:50:03] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:50:03] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:50:03] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:50:04] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:50:04] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:50:04] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:50:04] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:50:04] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:50:04] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:50:04] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:50:04] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:50:04] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:50:04] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[06:50:04] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:50:04] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
